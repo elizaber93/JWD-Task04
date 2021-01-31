@@ -1,0 +1,6 @@
+[submodule "jwd-task04-server"]
+	path = jwd-task04-server
+	url = https://github.com/elizaber93/jwd-task04-server.git
+[submodule "jwd-task04-client"]
+	path = jwd-task04-client
+	url = https://github.com/elizaber93/jwd-task04-client.git
